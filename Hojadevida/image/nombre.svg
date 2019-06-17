@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="nombre.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6090">
+      <stop
+         style="stop-color:#4495a1;stop-opacity:1;"
+         offset="0"
+         id="stop6086" />
+      <stop
+         style="stop-color:#4495a1;stop-opacity:0;"
+         offset="1"
+         id="stop6088" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6042">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6038" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop6040" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective3713" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6042"
+       id="linearGradient6048"
+       x1="18.766527"
+       y1="59.486485"
+       x2="434.00684"
+       y2="59.486485"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.6297373,25.24665)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6090"
+       id="linearGradient6094"
+       x1="66.273308"
+       y1="87.223213"
+       x2="144.63741"
+       y2="87.223213"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2648159,0,0,0.99964501,-26.159359,0.03096328)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35.08735275px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient6048);fill-opacity:1;stroke:none;stroke-width:0.87777346;stroke-miterlimit:4;stroke-dasharray:none"
+       x="15.903251"
+       y="96.931473"
+       id="text3731"
+       transform="scale(0.46384922,2.155873)"><tspan
+         sodipodi:role="line"
+         id="tspan3729"
+         x="15.903251"
+         y="96.931473"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient6048);fill-opacity:1;stroke:#000000;stroke-width:0.87777346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Carlos Eduardo Hurtado Vega</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3733"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3735"><rect
+           id="rect3737"
+           width="48.57143"
+           height="51.42857"
+           x="125.71429"
+           y="345.37683" /></flowRegion><flowPara
+         id="flowPara3739"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3741"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3743"><rect
+           id="rect3745"
+           width="22.857143"
+           height="45.714287"
+           x="160"
+           y="348.23398" /></flowRegion><flowPara
+         id="flowPara3747"></flowPara></flowRoot>    <rect
+       style="fill:url(#linearGradient6094);fill-opacity:1;stroke:#000000;stroke-width:0.56334478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6050"
+       width="98.482475"
+       height="105.04008"
+       x="57.981018"
+       y="34.703175" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:72.55558014px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8138895"
+       x="105.42572"
+       y="74.606918"
+       id="text6098"
+       transform="scale(0.60659709,1.6485407)"><tspan
+         sodipodi:role="line"
+         id="tspan6096"
+         x="105.42572"
+         y="74.606918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gabriola;-inkscape-font-specification:Gabriola;stroke-width:1.8138895">CEHV</tspan></text>
+  </g>
+</svg>
